@@ -23,7 +23,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="6.1.coordinate_systems.fs">
+    <None Include="6.2.coordinate_systems.fs">
       <Filter>Archivos de origen</Filter>
     </None>
     <None Include="6.2.coordinate_systems.vs">
